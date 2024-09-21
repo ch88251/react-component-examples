@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+:root {
+  --line-border-fill: #0cdc04;
+  --line-border-empty: #e0e0e0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f6f7fb;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
